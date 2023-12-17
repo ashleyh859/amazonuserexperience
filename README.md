@@ -2,6 +2,13 @@
 
 For our INFO 2950 Introduction to Data Science course final project, my group member, Ashley Chiang, and I tested our hypothesises about the correlation between Amazon user experience and consumer willingness of purchasing products in different age groups with Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, and RMSE.
 
+Research Questions:
+1. Do higher levels of helpfulness of Amazon reviews, helpfulness of Amazon recommendations, or personalized recommendations correlate with the higher frequency of users adding items to their shopping carts?
+2. Do higher levels of helpfulness of Amazon reviews, helpfulness of Amazon recommendations, or personalized recommendations correlate with the higher frequency of users completing shopping cart purchases?
+3. Do people who find the reviews helpful have a higher frequency of adding items to their cart among different age groups?
+
+Group Member: Ashley Chiang 
+
 Below are the files needed to access our project. 
 
 | Title  | Description |
