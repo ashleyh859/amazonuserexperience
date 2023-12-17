@@ -7,6 +7,8 @@ Research Questions:
 2. Do higher levels of helpfulness of Amazon reviews, helpfulness of Amazon recommendations, or personalized recommendations correlate with the higher frequency of users completing shopping cart purchases?
 3. Do people who find the reviews helpful have a higher frequency of adding items to their cart among different age groups?
 
+In this project, we would like to investigate if there is a correlation between x-variables (review helpfulness, recommendation helpfulness, frequency of receiving personalized product recommendations) and each y-variable (the frequency of adding items to cart and the frequency of cart completion). In addition, we would like to analyze the correlation of x-variables and y-variables in different age groups. The age groups include *13-18, 19-25, 26-40, 41-64, and 65+*.
+
 Group Member: Ashley Chiang 
 
 Below are the files needed to access our project. 
